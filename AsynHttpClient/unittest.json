@@ -1,0 +1,25 @@
+{"ext_url": "{123}1http://www.google.com{123}", "ext_dict": {"123": "", "456": "def", "789": "def"}}
+{"ext_url": "http://example.com/search?q=question&lang=en&tag=python", "ext_dict": {}}
+{"ext_url": "www.deelay.com/100000?http://google.com", "ext_dict": {}}
+{"ext_url": "HTTP://www.google.com", "ext_dict": {}}
+{"ext_url": "https://en.wikipedia.org/wiki/Quantum_computing", "ext_dict": {}}
+{"ext_url": "https://scholar.google.com.sg/scholar?q=quantum+dots+single+photon+computing&btnG=&hl=EN&as_sdt=0%2C5", "ext_dict": {}}
+{"ext_url": "http://www.sportshub.com.sg/Pages/default.aspx", "ext_dict": {}}
+{"ext_url": "http://libportal.nus.edu.sg/frontend/index", "ext_dict": {}}
+{"ext_url": "https://www.google.com.sg/maps/search/Chicken+Rice/@{Lon},{Lat},{Siz}/data=!3m1!4b1", "ext_dict": {"Lon": "1.2785308", "Lat": "103.8400065", "Siz": "16z", "hl": "EN"}}
+{"ext_url": "https://www.google.com.sg/maps/place/%E4%BD%9B%E7%89%99%E5%AF%BA%E9%BE%8D%E8%8F%AF%E9%99%A2/@1.2823243,103.8377554,15.17z/data=!4m5!3m4!1s0x0:0x19202d08368ce010!8m2!3d1.281399!4d103.8442674?hl=EN", "ext_dict": {}}
+{"ext_url": "http://www.bbc.com/news/business-40673694", "ext_dict": {}}
+{"ext_url": "http://www.singaporeair.com/en_UK/sg/special-offers/flight-from-Singapore-to-Wellington_133592/", "ext_dict": {}}
+{"ext_url": "siacharityrun.com.sg/", "ext_dict": {}}
+{"ext_url": "https://twitter.com/NASA", "ext_dict": {}}
+{"ext_url": "https://eclipse2017.nasa.gov/safety?linkId=41201810", "ext_dict": {}}
+{"ext_url": "https://www.bloomberg.com/news/articles/2017-08-20/with-some-countries-china-is-in-the-red", "ext_dict": {}}
+{"ext_url": "https://www.bloomberg.com/news/articles/2017-08-16/dyson-hoovers-up-aston-martin-exec-amid-electric-car-speculation", "ext_dict": {}}
+{"ext_url": "https://www.lta.gov.sg/content/ltaweb/en/public-transport/mrt-and-lrt-trains/train-system-map.html", "ext_dict": {}}
+{"ext_url": "www.yelp.com/biz/matties-austin-3", "ext_dict": {}}
+{"ext_url": "https://www.google.com.sg/search?q=matties+cat&rlz=1C1CHBF_ENSG749SG749&tbm=isch&imgil=TW4ZxWhfMFsNrM%253A%253BMcnchaYP4WOrIM%253Bhttps%25253A%25252F%25252Fthe-paint-pub.com%25252Fevents%25252Fmatisse-cat-30-00-new-painting%25252F&source=iu&pf=m&fir=TW4ZxWhfMFsNrM%253A%252CMcnchaYP4WOrIM%252C_&usg=__tHsmY5DLvnU7fCmgU4BkkS094hE%3D&biw=1366&bih=634&ved=0ahUKEwjI4NvemejVAhVBKo8KHSxpBPAQyjcIPQ&ei=BsGaWcjFJMHUvASs0pGADw#imgrc=TW4ZxWhfMFsNrM:", "ext_dict": {}}
+{"ext_url": "https://www.google.com.sg/maps/place/%E6%AF%9B%E9%87%8C%E6%B1%82%E6%96%AF%E5%8D%A1%E7%89%B9%E5%8B%92%E5%8D%9A%E5%B0%94%E7%BA%B3/@-20.2715376,57.4477773,13z/data=!3m1!4b1!4m5!3m4!1s0x217c5b362a53eb21:0xa89e7a31911b7451!8m2!3d-20.2675113!4d57.4797821?hl=EN", "ext_dict": {}}
+{"ext_url": "https://www.google.com.sg/maps/place/Tokyo,+%E4%B8%9C%E4%BA%AC%E9%83%BD%E6%97%A5%E6%9C%AC/@35.6691074,139.601294,11z/data=!3m1!4b1!4m5!3m4!1s0x60188b857628235d:0xcdd8aef709a2b520!8m2!3d35.7108378!4d139.7296143?hl=EN", "ext_dict": {}}
+{"ext_url": "https://www.google.com.sg/maps/place/%E6%B5%B7%E6%B9%BE%E5%B8%82%E5%9C%BA/@25.7823907,-80.2994993,12z/data=!4m13!1m7!3m6!1s0x60188b857628235d:0xcdd8aef709a2b520!2zVG9reW8sIOS4nOS6rOmDveaXpeacrA!3b1!8m2!3d35.7108378!4d139.7296143!3m4!1s0x0:0x87962a8eb8223143!8m2!3d25.7777885!4d-80.1865482?hl=EN", "ext_dict": {}}
+{"ext_url": "https://www.google.com.sg/maps/place/%E7%BE%8E%E5%9B%BD%E4%B9%94%E6%B2%BB%E4%BA%9A%E5%B7%9E%E5%8D%A2%E5%A4%9A%E7%BB%B4%E8%A5%BF%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+31316/@31.7083333,-81.764438,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x60188b857628235d:0xcdd8aef709a2b520!2zVG9reW8sIOS4nOS6rOmDveaXpeacrA!3b1!8m2!3d35.7108378!4d139.7296143!3m4!1s0x88fac2804e4f8b6f:0x50cdf371bc4ccac4!8m2!3d31.7077239!4d-81.7424011?hl=EN", "ext_dict": {}}
+{"ext_url": "https://www.google.com.sg/maps/place/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%AD%81%E5%8C%97%E5%85%8B%E7%9C%81%E5%BA%93%E6%9C%B1%E7%93%A6%E5%85%8B/@58.1447759,-68.6601986,10z/data=!3m1!4b1!4m13!1m7!3m6!1s0x60188b857628235d:0xcdd8aef709a2b520!2zVG9reW8sIOS4nOS6rOmDveaXpeacrA!3b1!8m2!3d35.7108378!4d139.7296143!3m4!1s0x4c48d72cf73da94f:0x97a3aaf7d1984e1e!8m2!3d58.1025568!4d-68.420105?hl=EN", "ext_dict": {}}

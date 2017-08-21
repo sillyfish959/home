@@ -1,0 +1,70 @@
+2017-08-21 20:54:45,396 [INFO    ] 
+2017-08-21 20:54:45,546 [INFO    ] Start Connecting URLs:
+2017-08-21 20:54:45,592 [WARNING ]                      Connecting to www.google.com.sg >= 5, Will Retry Later
+2017-08-21 20:54:45,593 [WARNING ]                      Connecting to www.google.com.sg >= 5, Will Retry Later
+2017-08-21 20:54:45,594 [WARNING ]                      Connecting to www.google.com.sg >= 5, Will Retry Later
+2017-08-21 20:54:45,607 [INFO    ] Process #10844       Connecting to www.google.com
+2017-08-21 20:54:45,705 [INFO    ] Process #12736       Connecting to example.com/search?q=question&lang=en&tag=python
+2017-08-21 20:54:45,706 [INFO    ] Process #9908        Connecting to www.deelay.com/100000?http://google.com
+2017-08-21 20:54:45,709 [INFO    ] Process #8060        Connecting to 1http://www.google.com?456=def&789=def
+2017-08-21 20:54:45,772 [WARNING ] #302 Found           Reply from www.google.com
+2017-08-21 20:54:45,782 [INFO    ] Process #10844       Connecting to en.wikipedia.org/wiki/quantum_computing
+2017-08-21 20:54:46,483 [WARNING ] #301 Moved Permanently Reply from en.wikipedia.org/wiki/quantum_computing
+2017-08-21 20:54:46,497 [INFO    ] Process #10844       Connecting to scholar.google.com.sg/scholar?q=quantum+dots+single+photon+computing&btng=&hl=en&as_sdt=0%2c5
+2017-08-21 20:54:46,613 [ERROR   ] #404 Not Found       Reply from example.com/search?q=question&lang=en&tag=python
+2017-08-21 20:54:46,637 [INFO    ] Process #12736       Connecting to www.sportshub.com.sg/pages/default.aspx
+2017-08-21 20:54:47,208 [WARNING ] #302 Found           Reply from www.deelay.com/100000?http://google.com
+2017-08-21 20:54:47,242 [INFO    ] Process #9908        Connecting to libportal.nus.edu.sg/frontend/index
+2017-08-21 20:54:48,262 [INFO    ] #200 OK              Reply from scholar.google.com.sg/scholar?q=quantum+dots+single+photon+computing&btng=&hl=en&as_sdt=0%2c5
+2017-08-21 20:54:48,286 [ERROR   ] # -1 Invalid URL     Reply from 1http://www.google.com?456=def&789=def
+2017-08-21 20:54:48,301 [INFO    ] Process #10844       Connecting to www.google.com.sg/maps/search/chicken+rice/@1.2785308,103.8400065,16z/data=!3m1!4b1?hl=en
+2017-08-21 20:54:48,308 [INFO    ] Process #8060        Connecting to www.google.com.sg/maps/place/%e4%bd%9b%e7%89%99%e5%af%ba%e9%be%8d%e8%8f%af%e9%99%a2/@1.2823243,103.8377554,15.17z/data=!4m5!3m4!1s0x0:0x19202d08368ce010!8m2!3d1.281399!4d103.8442674?hl=en
+2017-08-21 20:54:48,530 [WARNING ] #302 Found           Reply from www.google.com.sg/maps/search/chicken+rice/@1.2785308,103.8400065,16z/data=!3m1!4b1?hl=en
+2017-08-21 20:54:48,553 [WARNING ] #302 Found           Reply from www.google.com.sg/maps/place/%e4%bd%9b%e7%89%99%e5%af%ba%e9%be%8d%e8%8f%af%e9%99%a2/@1.2823243,103.8377554,15.17z/data=!4m5!3m4!1s0x0:0x19202d08368ce010!8m2!3d1.281399!4d103.8442674?hl=en
+2017-08-21 20:54:48,567 [INFO    ] Process #10844       Connecting to www.bbc.com/news/business-40673694
+2017-08-21 20:54:48,571 [INFO    ] Process #8060        Connecting to www.singaporeair.com/en_uk/sg/special-offers/flight-from-singapore-to-wellington_133592/
+2017-08-21 20:54:48,653 [ERROR   ] #404 Not Found       Reply from www.singaporeair.com/en_uk/sg/special-offers/flight-from-singapore-to-wellington_133592/
+2017-08-21 20:54:48,681 [INFO    ] Process #8060        Connecting to siacharityrun.com.sg/
+2017-08-21 20:54:48,921 [INFO    ] #200 OK              Reply from libportal.nus.edu.sg/frontend/index
+2017-08-21 20:54:48,945 [INFO    ] Process #9908        Connecting to twitter.com/nasa
+2017-08-21 20:54:49,643 [WARNING ] #301 Moved Permanently Reply from www.bbc.com/news/business-40673694
+2017-08-21 20:54:49,672 [INFO    ] Process #10844       Connecting to eclipse2017.nasa.gov/safety?linkid=41201810
+2017-08-21 20:54:49,720 [ERROR   ] # -1 Invalid URL     Reply from siacharityrun.com.sg/
+2017-08-21 20:54:49,727 [INFO    ] Process #8060        Connecting to www.bloomberg.com/news/articles/2017-08-20/with-some-countries-china-is-in-the-red
+2017-08-21 20:54:49,789 [INFO    ] #200 OK              Reply from www.bloomberg.com/news/articles/2017-08-20/with-some-countries-china-is-in-the-red
+2017-08-21 20:54:49,804 [INFO    ] Process #8060        Connecting to www.bloomberg.com/news/articles/2017-08-16/dyson-hoovers-up-aston-martin-exec-amid-electric-car-speculation
+2017-08-21 20:54:49,876 [INFO    ] #200 OK              Reply from eclipse2017.nasa.gov/safety?linkid=41201810
+2017-08-21 20:54:49,888 [INFO    ] Process #10844       Connecting to www.lta.gov.sg/content/ltaweb/en/public-transport/mrt-and-lrt-trains/train-system-map.html
+2017-08-21 20:54:50,193 [INFO    ] #200 OK              Reply from www.lta.gov.sg/content/ltaweb/en/public-transport/mrt-and-lrt-trains/train-system-map.html
+2017-08-21 20:54:50,217 [INFO    ] #200 OK              Reply from twitter.com/nasa
+2017-08-21 20:54:50,230 [INFO    ] Process #10844       Connecting to www.yelp.com/biz/matties-austin-3
+2017-08-21 20:54:50,237 [INFO    ] Process #9908        Connecting to www.google.com.sg/search?q=matties+cat&rlz=1c1chbf_ensg749sg749&tbm=isch&imgil=tw4zxwhfmfsnrm%253a%253bmcnchayp4worim%253bhttps%25253a%25252f%25252fthe-paint-pub.com%25252fevents%25252fmatisse-cat-30-00-new-painting%25252f&source=iu&pf=m&fir=tw4zxwhfmfsnrm%253a%252cmcnchayp4worim%252c_&usg=__thsmy5dlvnu7fcmgu4bkks094he%3d&biw=1366&bih=634&ved=0ahukewji4nvemejvahvbko8khsxpbpaqyjcipq&ei=bsgawcjfjmhuvass0pgadw#imgrc=tw4zxwhfmfsnrm:
+2017-08-21 20:54:50,604 [INFO    ] #200 OK              Reply from www.google.com.sg/search?q=matties+cat&rlz=1c1chbf_ensg749sg749&tbm=isch&imgil=tw4zxwhfmfsnrm%253a%253bmcnchayp4worim%253bhttps%25253a%25252f%25252fthe-paint-pub.com%25252fevents%25252fmatisse-cat-30-00-new-painting%25252f&source=iu&pf=m&fir=tw4zxwhfmfsnrm%253a%252cmcnchayp4worim%252c_&usg=__thsmy5dlvnu7fcmgu4bkks094he%3d&biw=1366&bih=634&ved=0ahukewji4nvemejvahvbko8khsxpbpaqyjcipq&ei=bsgawcjfjmhuvass0pgadw#imgrc=tw4zxwhfmfsnrm:
+2017-08-21 20:54:50,639 [INFO    ] Process #9908        Connecting to www.google.com.sg/maps/place/%e6%af%9b%e9%87%8c%e6%b1%82%e6%96%af%e5%8d%a1%e7%89%b9%e5%8b%92%e5%8d%9a%e5%b0%94%e7%ba%b3/@-20.2715376,57.4477773,13z/data=!3m1!4b1!4m5!3m4!1s0x217c5b362a53eb21:0xa89e7a31911b7451!8m2!3d-20.2675113!4d57.4797821?hl=en
+2017-08-21 20:54:50,688 [WARNING ] #302 Found           Reply from www.google.com.sg/maps/place/%e6%af%9b%e9%87%8c%e6%b1%82%e6%96%af%e5%8d%a1%e7%89%b9%e5%8b%92%e5%8d%9a%e5%b0%94%e7%ba%b3/@-20.2715376,57.4477773,13z/data=!3m1!4b1!4m5!3m4!1s0x217c5b362a53eb21:0xa89e7a31911b7451!8m2!3d-20.2675113!4d57.4797821?hl=en
+2017-08-21 20:54:50,699 [INFO    ] Process #9908        Connecting to www.google.com.sg/maps/place/tokyo,+%e4%b8%9c%e4%ba%ac%e9%83%bd%e6%97%a5%e6%9c%ac/@35.6691074,139.601294,11z/data=!3m1!4b1!4m5!3m4!1s0x60188b857628235d:0xcdd8aef709a2b520!8m2!3d35.7108378!4d139.7296143?hl=en
+2017-08-21 20:54:50,750 [WARNING ] #302 Found           Reply from www.google.com.sg/maps/place/tokyo,+%e4%b8%9c%e4%ba%ac%e9%83%bd%e6%97%a5%e6%9c%ac/@35.6691074,139.601294,11z/data=!3m1!4b1!4m5!3m4!1s0x60188b857628235d:0xcdd8aef709a2b520!8m2!3d35.7108378!4d139.7296143?hl=en
+2017-08-21 20:54:50,864 [INFO    ] #200 OK              Reply from www.bloomberg.com/news/articles/2017-08-16/dyson-hoovers-up-aston-martin-exec-amid-electric-car-speculation
+2017-08-21 20:54:53,345 [INFO    ] #200 OK              Reply from www.yelp.com/biz/matties-austin-3
+2017-08-21 20:55:07,653 [ERROR   ] # -1 Invalid URL     Reply from www.sportshub.com.sg/pages/default.aspx
+2017-08-21 20:55:07,723 [INFO    ] 
+2017-08-21 20:55:07,723 [INFO    ] Retry Throttled URLs:
+2017-08-21 20:55:07,928 [INFO    ] Process #10324       Connecting to www.google.com.sg/maps/place/%e6%b5%b7%e6%b9%be%e5%b8%82%e5%9c%ba/@25.7823907,-80.2994993,12z/data=!4m13!1m7!3m6!1s0x60188b857628235d:0xcdd8aef709a2b520!2zvg9rew8sios4nos6romdveaxpeacra!3b1!8m2!3d35.7108378!4d139.7296143!3m4!1s0x0:0x87962a8eb8223143!8m2!3d25.7777885!4d-80.1865482?hl=en
+2017-08-21 20:55:07,932 [INFO    ] Process #13112       Connecting to www.google.com.sg/maps/place/%e7%be%8e%e5%9b%bd%e4%b9%94%e6%b2%bb%e4%ba%9a%e5%b7%9e%e5%8d%a2%e5%a4%9a%e7%bb%b4%e8%a5%bf%e9%82%ae%e6%94%bf%e7%bc%96%e7%a0%81:+31316/@31.7083333,-81.764438,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x60188b857628235d:0xcdd8aef709a2b520!2zvg9rew8sios4nos6romdveaxpeacra!3b1!8m2!3d35.7108378!4d139.7296143!3m4!1s0x88fac2804e4f8b6f:0x50cdf371bc4ccac4!8m2!3d31.7077239!4d-81.7424011?hl=en
+2017-08-21 20:55:07,934 [INFO    ] Process #2484        Connecting to www.google.com.sg/maps/place/%e5%8a%a0%e6%8b%bf%e5%a4%a7%e9%ad%81%e5%8c%97%e5%85%8b%e7%9c%81%e5%ba%93%e6%9c%b1%e7%93%a6%e5%85%8b/@58.1447759,-68.6601986,10z/data=!3m1!4b1!4m13!1m7!3m6!1s0x60188b857628235d:0xcdd8aef709a2b520!2zvg9rew8sios4nos6romdveaxpeacra!3b1!8m2!3d35.7108378!4d139.7296143!3m4!1s0x4c48d72cf73da94f:0x97a3aaf7d1984e1e!8m2!3d58.1025568!4d-68.420105?hl=en
+2017-08-21 20:55:07,986 [WARNING ] #302 Found           Reply from www.google.com.sg/maps/place/%e6%b5%b7%e6%b9%be%e5%b8%82%e5%9c%ba/@25.7823907,-80.2994993,12z/data=!4m13!1m7!3m6!1s0x60188b857628235d:0xcdd8aef709a2b520!2zvg9rew8sios4nos6romdveaxpeacra!3b1!8m2!3d35.7108378!4d139.7296143!3m4!1s0x0:0x87962a8eb8223143!8m2!3d25.7777885!4d-80.1865482?hl=en
+2017-08-21 20:55:08,093 [WARNING ] #302 Found           Reply from www.google.com.sg/maps/place/%e5%8a%a0%e6%8b%bf%e5%a4%a7%e9%ad%81%e5%8c%97%e5%85%8b%e7%9c%81%e5%ba%93%e6%9c%b1%e7%93%a6%e5%85%8b/@58.1447759,-68.6601986,10z/data=!3m1!4b1!4m13!1m7!3m6!1s0x60188b857628235d:0xcdd8aef709a2b520!2zvg9rew8sios4nos6romdveaxpeacra!3b1!8m2!3d35.7108378!4d139.7296143!3m4!1s0x4c48d72cf73da94f:0x97a3aaf7d1984e1e!8m2!3d58.1025568!4d-68.420105?hl=en
+2017-08-21 20:55:08,119 [WARNING ] #302 Found           Reply from www.google.com.sg/maps/place/%e7%be%8e%e5%9b%bd%e4%b9%94%e6%b2%bb%e4%ba%9a%e5%b7%9e%e5%8d%a2%e5%a4%9a%e7%bb%b4%e8%a5%bf%e9%82%ae%e6%94%bf%e7%bc%96%e7%a0%81:+31316/@31.7083333,-81.764438,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x60188b857628235d:0xcdd8aef709a2b520!2zvg9rew8sios4nos6romdveaxpeacra!3b1!8m2!3d35.7108378!4d139.7296143!3m4!1s0x88fac2804e4f8b6f:0x50cdf371bc4ccac4!8m2!3d31.7077239!4d-81.7424011?hl=en
+2017-08-21 20:55:08,201 [INFO    ] 
+2017-08-21 20:55:08,201 [INFO    ] Auto Retry for Failed URLs:
+2017-08-21 20:55:08,408 [INFO    ] Start Connecting URLs:
+2017-08-21 20:55:08,432 [INFO    ] Process #4640        Connecting to example.com/search?q=question&lang=en&tag=python
+2017-08-21 20:55:08,432 [INFO    ] Process #14240       Connecting to 1http://www.google.com?456=def&789=def
+2017-08-21 20:55:08,449 [INFO    ] Process #12264       Connecting to siacharityrun.com.sg/
+2017-08-21 20:55:08,458 [INFO    ] Process #14164       Connecting to www.singaporeair.com/en_uk/sg/special-offers/flight-from-singapore-to-wellington_133592/
+2017-08-21 20:55:08,543 [ERROR   ] #404 Not Found       Reply from www.singaporeair.com/en_uk/sg/special-offers/flight-from-singapore-to-wellington_133592/
+2017-08-21 20:55:08,559 [INFO    ] Process #14164       Connecting to www.sportshub.com.sg/pages/default.aspx
+2017-08-21 20:55:09,189 [ERROR   ] #404 Not Found       Reply from example.com/search?q=question&lang=en&tag=python
+2017-08-21 20:55:09,588 [ERROR   ] # -1 Invalid URL     Reply from siacharityrun.com.sg/
+2017-08-21 20:55:10,999 [ERROR   ] # -1 Invalid URL     Reply from 1http://www.google.com?456=def&789=def
+2017-08-21 20:55:29,576 [ERROR   ] # -1 Invalid URL     Reply from www.sportshub.com.sg/pages/default.aspx
