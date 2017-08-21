@@ -245,7 +245,10 @@ def main(filename, lp=None):
     else:
         Client.UrlQueueRead(filename, lp)
     Client.ConnectUrlQueue()
-    shutil.copy(filename_err, fn_rty)
+    try:
+        shutil.copy(filename_err, fn_rty)
+    except:
+        pass
     
 if __name__ == "__main__":
     if len(sys.argv) == 2:
