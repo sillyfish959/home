@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+
+  <Formulae>
+    <AddDependencies>N</AddDependencies>
+    <FormulaPaths>
+      <Path>client.%</Path>
+    </FormulaPaths>
+  </Formulae>
+
+</DataDictionnaryExport>

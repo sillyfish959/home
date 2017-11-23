@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+
+  <Formulae>
+    <AddDependencies>N</AddDependencies>
+    <FormulaPaths>
+      <Path>client.%</Path>
+      <Path>Formats.%</Path>
+      <Path>mx.%</Path>
+      <Path>public.%</Path>
+    </FormulaPaths>
+  </Formulae>
+
+  <Skeletons>
+    <Skeleton>
+      <Path>mx.%</Path>
+      <Path>public.%</Path>
+    </Skeleton>
+  </Skeletons>
+  
+  <Contexts>
+    <Context>
+      <Path>SQL.%</Path>
+      <Path>XML.%</Path>
+    </Context>
+  </Contexts>
+  
+  <Templates>
+    <TemplatePaths>
+      <Path>client.%</Path>
+      <Path>mx.%</Path>
+      <Path>public.%</Path>
+    </TemplatePaths>
+  </Templates>  
+</DataDictionnaryExport>

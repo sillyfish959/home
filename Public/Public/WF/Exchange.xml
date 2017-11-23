@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE ProcessingScriptQuery>
+<ProcessingScriptQuery>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>Exchange</wf:subCode>
+    </wf:workflow>
+</ProcessingScriptQuery>

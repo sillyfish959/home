@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+  <Formulae>
+    <AddDependencies>N</AddDependencies>
+    <FormulaPaths>
+      <Path>client.uob.paperConfo</Path>
+    </FormulaPaths>
+  </Formulae>
+  <Templates>
+    <AddDependencies>N</AddDependencies>
+    <TemplatePaths>
+      <Path>client.uob.paper</Path>
+    </TemplatePaths>
+  </Templates>
+</DataDictionnaryExport>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+
+  <Formulae>
+    <AddDependencies>Y</AddDependencies>
+    <FormulaPaths>
+      <!-- <Path>client.MW.%</Path> -->
+    </FormulaPaths>
+    <SingleFormulae>
+      <!-- <Formula>client.uob.postTrade.finContract.stpBOCheck.MW_IRDOnTheFly</Formula> -->
+    </SingleFormulae>
+  </Formulae>
+
+  <Skeletons>
+    <SkeletonPaths>
+      <!-- <Path>public.mat.%</Path> -->
+    </SkeletonPaths>
+    <SingleSkeletons>
+      <!-- <Skeleton>mx.templates.ci</Skeleton> -->
+    </SingleSkeletons>
+  </Skeletons>
+
+  <Contexts>
+    <ContextPaths>
+      <!-- <Path>XSL.%</Path> -->
+    </ContextPaths>
+    <SingleContexts>
+      <!-- <Context>SQL1.XML</Context> -->
+    </SingleContexts>
+  </Contexts>
+
+  <Templates>
+    <TemplatePaths>
+      <!-- <Path>client.%</Path> -->
+    </TemplatePaths>
+    <SingleTemplates>
+      <!-- <Template>mx.afb.currencyOption</Template> -->
+    </SingleTemplates>
+  </Templates>
+  
+  
+</DataDictionnaryExport>

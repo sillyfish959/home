@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE ProcessingScriptQuery>
+<ProcessingScriptQuery>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>Exchange</wf:subCode>
+        <wf:sheets>
+            <wf:sheet>
+                <wf:code>TOF_Import_Interface2</wf:code>
+            </wf:sheet>
+        </wf:sheets>
+    </wf:workflow>
+</ProcessingScriptQuery>

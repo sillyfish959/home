@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProcessingScriptQuery xmlns:wf="http://murex.com/xslt/common">
+  <wf:workflow>
+    <wf:code>PCGLOBAL_P1</wf:code>
+    <wf:subCode>Exchange</wf:subCode>
+    <wf:sheets>
+      <wf:sheet>
+        <wf:code>CFX</wf:code>
+      </wf:sheet>
+    </wf:sheets>
+  </wf:workflow>
+</ProcessingScriptQuery>

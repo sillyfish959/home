@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+  <Formulae>
+    <AddDependencies>N</AddDependencies>
+    <FormulaPaths>
+        <Path>client.murex.migration.cnr.%</Path>
+        <Path>client.murex.migration.get.%</Path>
+        <Path>client.murex.migration.workflow.%</Path>
+        <Path>client.murex.migration.xml2xml.flat.contract.%</Path>
+        <Path>client.murex.migration.xml2xml.flat.statics.%</Path>
+        <Path>client.murex.migration.xml2xml.flat.trade.curr.%</Path>
+        <Path>client.murex.migration.xml2xml.flat.trade.get.%</Path>
+        <Path>client.murex.migration.xml2xml.flat.trade.header.%</Path>
+        <Path>client.murex.migration.xml2xml.flat.trade.ird.%</Path>
+        <Path>client.murex.migration.xml2xml.flat.trade.mutualBreakSchedule.%</Path>
+        <Path>client.murex.migration.xml2xml.flat.trade.ssi.%</Path>
+        <Path>client.murex.migration.xml2xml.flat.trade.stream.%</Path>
+        <Path>client.tests.cnr.%</Path>
+        <Path>client.uob.conversion.%</Path>
+    </FormulaPaths>
+    <SingleFormulae>
+        <Formula>client.uob.postTrade.event.amendmentAgent.MigrationAA</Formula>
+        <Formula>client.uob.postTrade.finContract.amendmentAgent.MigrationAA</Formula>
+        <Formula>public.interfaces.import.deals.routeTransformation</Formula>
+        <Formula>public.interfaces.import.statics.routeTransformation</Formula>
+        <Formula>client.murex.migration.common.checkBenAddress</Formula>
+    </SingleFormulae>
+  </Formulae>
+</DataDictionnaryExport>

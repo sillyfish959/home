@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DependencyScript>
+
+	<Dependencies version="MX.3" direction="BOTH" recursive="Y" greedy="Y">
+		<!-- 
+			'version' attribute is optional. It allows Integer or String values
+			Default value is DEFAULT or 0, using the last available version.
+			Other allowed values are MxG2000 or 1, and MX.3 or 2
+
+			'direction' attribute is mandatory and can take values among: DOWNWARD, UPWARD, BOTH.
+			BOTH will evaluate dependencies in both other directions.
+
+			'recursive' attribute is optional. Default value is "N".
+			If set to "Y", the established dependencies will become new Roots to be evaluated,
+			in order to find their dependencies, those dependencies' dependencies, and so on
+			until the complete dependency chain that started with the original Root is completed.
+			If set to "N", then only the direct, first level dependencies of the original Root are returned.
+
+			'greedy' attribute is optional. Default value is "Y".
+			when establishing the downward dependencies, if an error occurs,
+			if set to "Y", then results established within an object, before the error,
+			will still be returned. If set to "N", an empty no dependency at all would be returned for that object.
+		-->
+
+		<Roots>
+		<!--
+			Root nodes represents the DataDictionary objects for which you want the dependencies,
+			whether in downward direction, upward direction, or both directions.
+
+			It is possible to not specify any Root nodes, in which case dependencies for ALL objects
+			will be established in the requested direction(s).
+
+			'type' and 'label' attribute are both mandatory.
+			The 'type' attribute can take its value among FORMULA, SKELETON, CONTEXT, TEMPLATE
+			You can take examples from the below comment.
+		-->
+			<!-- Root type="FORMULA" label="client.murex.errorHandling.technical.checkMxML"/ -->
+			<!-- <Root type="TEMPLATE" label="client.isda.com.t1"/> -->
+		</Roots>
+
+	</Dependencies>
+
+	<Renderer type="TEXT" dumpPath="./"/>
+		<!--
+			'type' attribute is optional. Default value is "TEXT".
+			It can take its value among XML, TEXT.
+		-->
+
+</DependencyScript>

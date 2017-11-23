@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+
+  <Formulae>
+    <AddDependencies>N</AddDependencies>
+    <FormulaPaths>
+      <Path>client.MW.%</Path>
+      <Path>public.ECN.import.markitwire.mapping.%</Path>
+      <Path>public.ECN.import.markitwire.settings.%</Path>
+      <Path>public.ECN.import.markitwire.transform.%</Path>
+    </FormulaPaths>
+    <SingleFormulae>
+      <Formula>client.uob.postTrade.finContract.stpBOCheck.MW_IRDOnTheFly</Formula>
+      <Formula>client.uob.trade.nFin.udf.MW_CONFIRM</Formula>
+      <Formula>public.xml2xml.mapping.fpml2mxml.common.businessCenters</Formula>
+      <Formula>public.xml2xml.mapping.fpml2mxml.common.currency</Formula>
+      <Formula>public.xml2xml.mapping.fpml2mxml.common.dayCountBasis</Formula>
+      <Formula>public.xml2xml.mapping.fpml2mxml.common.scheduleLabel</Formula>
+      <Formula>public.xml2xml.mapping.fpml2mxml.common.shifterLabel</Formula>
+      <Formula>public.xml2xml.mapping.fpml2mxml.ird.FXindex</Formula>
+      <Formula>public.xml2xml.mapping.fpml2mxml.ird.generatorLabel</Formula>
+      <Formula>public.xml2xml.mapping.fpml2mxml.ird.index</Formula>  
+    </SingleFormulae>
+  </Formulae>
+
+</DataDictionnaryExport>

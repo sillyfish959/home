@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE ProcessingScriptQuery>
+<ProcessingScriptQuery>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>Exchange</wf:subCode>
+        <wf:sheets>
+            <wf:sheet>
+                <wf:code>Phase 2 - Matching</wf:code>
+            </wf:sheet>
+            <wf:sheet>    
+                <wf:code>Phase 2bis - Chasing</wf:code>
+            </wf:sheet>
+        </wf:sheets>
+    </wf:workflow>
+</ProcessingScriptQuery>

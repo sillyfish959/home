@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+
+  <Formulae>
+    <AddDependencies>N</AddDependencies>
+    <SingleFormulae>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.portfolio</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.counterparty</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.users</Formula>
+        <Formula>client.MW.emailTo</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.generatorLabel.swap</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.generatorLabel.ois</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.generatorLabel.cs</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.generatorLabel.oswp</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.generatorLabel.fra</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.generatorLabel.cds</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.generatorLabel.bs</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.dayCountBasis</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.Fxindex</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.index</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.shifterLabel</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.scheduleLabel</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.familyGroupType</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.currency</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.mutualBreakSchedule.scheduleGeneratorLabel</Formula>
+        <Formula>public.ECN.import.markitwire.mapping.inbound.mutualBreakSchedule.exercizeFrequency</Formula>
+        <Formula>client.uob.wss.dh.outbound.common.getAreaPortfolio</Formula>
+        <Formula>client.uob.wss.dh.outbound.common.getInternalAreaPortfolio</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getCptyName</Formula>
+        <Formula>client.uob.wss.dh.inbound.getPortfolioInbound</Formula>
+        <Formula>client.uob.wss.dh.inbound.email.to</Formula>
+        <Formula>client.uob.wss.dh.inbound.ndfCurrency</Formula>
+        <Formula>client.uob.wss.dh.inbound.archivingGroupColumn</Formula>
+        <Formula>client.uob.wss.dh.inbound.email.pfEmailAlert</Formula>
+        <Formula>client.uob.wss.dh.inbound.email.subject</Formula>
+        <Formula>client.uob.finiq.trade.curr.opt.portfolio</Formula>
+        <Formula>client.uob.finiq.email.to</Formula>
+        <Formula>client.uob.errorHandling.to</Formula>
+    </SingleFormulae>
+  </Formulae>
+
+</DataDictionnaryExport>

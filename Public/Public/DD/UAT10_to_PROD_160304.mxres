@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+
+  <Formulae>
+    <AddDependencies>N</AddDependencies>
+    <SingleFormulae>
+        <Formula>client.uob.wss.dh.common.buySell</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.checkNdfCurrency</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.checkWSSCurrency</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getBuyCurrency</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getBuyNominal</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getcustReference</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getcustShortName</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getndfFeeAmount</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getRate</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getSellCurrency</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getSellNominal</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getswpCustReference</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.gettradeDate</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getTradeType</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getValueDate</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getxswamt1</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getxswamt2</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getxswRate</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.getxswValueDate</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.ndfDeliveryCcy</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg1Rate</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg2Rate</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg1BuyCurreny</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg1BuyNominal</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg1BuyNominalE</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg1RateE</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg1SellCurreny</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg1SellNominal</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg1SellNominalE</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg2BuyCurreny</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg2BuyNominal</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg2BuyNominalE</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg2RateE</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg2SellCurreny</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg2SellNominal</Formula>
+        <Formula>client.uob.wss.dh.outbound.fxd.xsw.getLeg2SellNominalE</Formula>
+    </SingleFormulae>
+  </Formulae>
+
+</DataDictionnaryExport>

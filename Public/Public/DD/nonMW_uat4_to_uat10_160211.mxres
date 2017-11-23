@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+
+  <Formulae>
+    <AddDependencies>N</AddDependencies>
+    <SingleFormulae>
+        <Formula>client.uob.wss.dh.common.checkCtpAndPortfolio</Formula>
+        <Formula>client.uob.wss.dh.inbound.checkValidInvalidInput</Formula>
+        <Formula>client.uob.wss.dh.inbound.email.pfEmailAlert</Formula>
+        <Formula>client.uob.wss.dh.inbound.email.to</Formula>
+        <Formula>client.uob.wss.dh.inbound.getInternalPortfolio</Formula>
+        <Formula>client.uob.wss.dh.inbound.getPortfolioInbound</Formula>
+        <Formula>client.uob.wss.dh.inbound.updatingInputXml</Formula>
+        <Formula>client.uob.wss.dh.outbound.common.getArea</Formula>
+        <Formula>client.uob.wss.dh.outbound.common.getInternalArea</Formula>
+        <Formula>client.uob.wss.dh.outbound.common.getInternalAreaPortfolio</Formula>
+        <Formula>client.uob.wss.dh.outbound.common.getInternalPortfolio</Formula>
+        <Formula>client.uob.wss.dh.outbound.common.getPortfolio</Formula>
+        <Formula>client.uob.wss.dh.outbound.ird.getExtDealNumber</Formula>
+        <Formula>client.uob.wss.dh.outbound.ird.getTradeDate</Formula>
+        <Formula>client.uob.wss.dh.outbound.ird.outMessage</Formula>
+        <Formula>public.interfaces.import.deals.routeTransformation</Formula>
+    </SingleFormulae>
+  </Formulae>
+
+</DataDictionnaryExport>

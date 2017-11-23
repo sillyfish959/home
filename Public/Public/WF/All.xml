@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE ProcessingScriptQuery>
+<ProcessingScriptQuery>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>Contract</wf:subCode>
+    </wf:workflow>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>Deliverable</wf:subCode>
+    </wf:workflow>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>Exchange</wf:subCode>
+    </wf:workflow>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>Event</wf:subCode>
+    </wf:workflow>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>Counterparty</wf:subCode>
+    </wf:workflow>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>AccountingEntry</wf:subCode>
+    </wf:workflow>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>Order</wf:subCode>
+    </wf:workflow>
+    <wf:workflow>
+        <wf:code>PCGLOBAL_P1</wf:code>
+        <wf:subCode>SI</wf:subCode>
+    </wf:workflow>
+</ProcessingScriptQuery>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE DataDictionnaryExport>
+<DataDictionnaryExport>
+
+  <Formulae>
+    <AddDependencies>N</AddDependencies>
+    <SingleFormulae>
+        <Formula>client.uob.postTrade.finContract.stpRouting.isDraft</Formula>
+        <Formula>client.uob.wss.dh.outbound.common.eventRoutingWss</Formula>
+        <Formula>client.uob.errorHandling.toUser</Formula>
+        <Formula>client.uob.errorHandling.toSupport</Formula>
+    </SingleFormulae>
+  </Formulae>
+
+</DataDictionnaryExport>
